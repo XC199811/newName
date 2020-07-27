@@ -2,3 +2,4 @@ aaa1
 aaa2
 test1
 test2
+testa.txt
