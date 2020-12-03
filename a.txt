@@ -3,4 +3,3 @@ aaa2
 test1
 test2
 testa.txt
-test222.txt
